@@ -1,5 +1,6 @@
 👋 I'm a sociologist, political advisor, and teacher with a passion for uncovering the hidden stories within data.  My journey has taken me from traditional research methods to the exciting world of data science, where I'm using informatic tools like to analyze complex social phenomena.
 
+
    👀 Director of the Arquetipos Ingeniería Política Consulting Firm
    
     💪 Starting to dive into the world of data science
