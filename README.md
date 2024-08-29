@@ -21,45 +21,49 @@ I'm deeply passionate about politics\n
 in all its forms, particularly the dynamic interplay\n
 between the public and private sectors. 
 
-Research and Articles:
-"Herencia Ferroviaria: Towards the Next Station" (Railway Policy Analysis) - Presentation at the IX Sociology Conference of the UNLP, Ensenada, Argentina (December 5-7, 2016) 
+## Research and Articles:
 
-https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/MemAca_0c3765d9b261810a2889a50775c4711a
-(Co-authored with Sergio Ricardo Boncompagno)
-"Peronism: The Lost Alchemy" - Political Analysis Article (July 2024)
+* "Herencia Ferroviaria: Towards the Next Station" (Railway Policy Analysis) - Presentation at the IX Sociology Conference of the UNLP, Ensenada, Argentina (December 5-7, 2016)
+    * [https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/MemAca_0c3765d9b261810a2889a50775c4711a](https://repositoriosdigitales.mincyt.gob.ar/vufind/Record/MemAca_0c3765d9b261810a2889a50775c4711a)
+    * (Co-authored with Sergio Ricardo Boncompagno)
 
-https://comunidadorganizada.com.ar/peronismo-la-alquimia-perdida/
-"One More Turn" - Political Conjuncture Analysis Article (October 2021)
+* "Peronism: The Lost Alchemy" - Political Analysis Article (July 2024)
+    * [https://comunidadorganizada.com.ar/peronismo-la-alquimia-perdida/](https://comunidadorganizada.com.ar/peronismo-la-alquimia-perdida/)
 
-https://www.laplata1.com/2021-10-06/una-vuelta-mas-64544/
-(Co-authored with Sergio Boncompagno and Manuela Hoya)
-"The Last Train" - Political Conjuncture Analysis Article (September 8, 2021) 
+* "One More Turn" - Political Conjuncture Analysis Article (October 2021)
+    * [https://www.laplata1.com/2021-10-06/una-vuelta-mas-64544/](https://www.laplata1.com/2021-10-06/una-vuelta-mas-64544/)
+    * (Co-authored with Sergio Boncompagno and Manuela Hoya)
 
-https://www.laplata1.com/2021-09-08/el-ultimo-tren-63095/
-(Co-authored with Bruno Ferronato and Franco Galeano)
-"Candidate Selection and Model Debate" - Political Conjuncture Analysis Article (July 19, 2021)
+* "The Last Train" - Political Conjuncture Analysis Article (September 8, 2021)
+    * [https://www.laplata1.com/2021-09-08/el-ultimo-tren-63095/](https://www.laplata1.com/2021-09-08/el-ultimo-tren-63095/)
+    * (Co-authored with Bruno Ferronato and Franco Galeano)
 
-https://www.laplata1.com/2021-07-19/eleccion-de-candidatos-debate-de-modelos-60639/
-(Co-authored with Bruno Ferronato)
-"Without an Answer" - Political Analysis Note (August 2019)
+* "Candidate Selection and Model Debate" - Political Conjuncture Analysis Article (July 19, 2021)
+    * [https://www.laplata1.com/2021-07-19/eleccion-de-candidatos-debate-de-modelos-60639/](https://www.laplata1.com/2021-07-19/eleccion-de-candidatos-debate-de-modelos-60639/)
+    * (Co-authored with Bruno Ferronato)
 
-https://www.diagonales.com/nacion/sin-respuesta_a6213aca3d196a84a1bc2f596
-(Co-authored with Manuela Hoya and Sergio Boncompagno)
-Radio Interviews:
-Interview on Radio Estación Sur (March 2019) - Socioeconomic Conjuncture Analysis 
+* "Without an Answer" - Political Analysis Note (August 2019)
+    * [https://www.diagonales.com/nacion/sin-respuesta_a6213aca3d196a84a1bc2f596](https://www.diagonales.com/nacion/sin-respuesta_a6213aca3d196a84a1bc2f596)
+    * (Co-authored with Manuela Hoya and Sergio Boncompagno)
 
-https://uy.radiocut.fm/audiocut/german-epelbaum-de-arquetipos-consultora-y-los-ultimos-relevamientos-en-las-playas-del-conurbano/?replay=11111111
-Interview on Radio Estación Sur (March 2017) - Socioeconomic Conjuncture Analysis
 
-https://www.ivoox.com/german-epelbaum-hablo-matias-gago-post-audios-mp3_rf_17469322_1.html
-Interview on Radio Grafica893 (March 2017) - Analysis of Summer Behaviors and Political Assessments of Vulnerable Populations 
+## Radio Interviews:
 
-https://ar.radiocut.fm/audiocut/arquetipos-donde-veranean-aquellos-que-no-pueden-afrontar-el-gasto-de-viajar-a-la-costa-atlantica/
-Other Works:
-Public Policy Presentation (June 2019)
+* Interview on Radio Estación Sur (March 2019) - Socioeconomic Conjuncture Analysis
+    * [https://uy.radiocut.fm/audiocut/german-epelbaum-de-arquetipos-consultora-y-los-ultimos-relevamientos-en-las-playas-del-conurbano/?replay=11111111](https://uy.radiocut.fm/audiocut/german-epelbaum-de-arquetipos-consultora-y-los-ultimos-relevamientos-en-las-playas-del-conurbano/?replay=11111111) 
 
-https://www.youtube.com/watch?v=W8-vq4a2pOA
-Undergraduate Thesis: "Aerolineas Argentinas: Management Through Technical Rationality and Political Ideology" 
+* Interview on Radio Estación Sur (March 2017) - Socioeconomic Conjuncture Analysis
+    * [https://www.ivoox.com/german-epelbaum-hablo-matias-gago-post-audios-mp3_rf_17469322_1.html](https://www.ivoox.com/german-epelbaum-hablo-matias-gago-post-audios-mp3_rf_17469322_1.html)
 
-https://memoria.fahce.unlp.edu.ar/library?a=d&c=tesis&d=Jte818
+* Interview on Radio Grafica893 (March 2017) - Analysis of Summer Behaviors and Political Assessments of Vulnerable Populations 
+    * [https://ar.radiocut.fm/audiocut/arquetipos-donde-veranean-aquellos-que-no-pueden-afrontar-el-gasto-de-viajar-a-la-costa-atlantica/](https://ar.radiocut.fm/audiocut/arquetipos-donde-veranean-aquellos-que-no-pueden-afrontar-el-gasto-de-viajar-a-la-costa-atlantica/)
+
+## Other Works:
+
+* Public Policy Presentation (June 2019)
+    * [https://www.youtube.com/watch?v=W8-vq4a2pOA](https://www.youtube.com/watch?v=W8-vq4a2pOA)
+
+* Undergraduate Thesis: "Aerolineas Argentinas: Management Through Technical Rationality and Political Ideology"
+    * [https://memoria.fahce.unlp.edu.ar/library?a=d&c=tesis&d=Jte818](https://memoria.fahce.unlp.edu.ar/library?a=d&c=tesis&d=Jte818) 
+
 --->
