@@ -14,8 +14,12 @@
  
 
 ⚡️ Skills
-Languages: R, some Stata and SPSS.
-Learning: PowerBi 
+Skills
+Tools: RStudio and its main packages for data analysis, predictive modeling, visualization, and georeferencing.
+Programming Languages: R, SQL, and some experience with Stata and SPSS.
+Predictive Models: Development and evaluation of predictive models.
+Data Visualization: Creating informative graphs and dashboards.
+Learning: Currently exploring Python and Power BI.
 
 I'm deeply passionate about politics\n
 in all its forms, particularly the dynamic interplay\n
