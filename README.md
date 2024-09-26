@@ -14,7 +14,7 @@
  
 
 ⚡️ Skills
-Skills
+
 Tools: RStudio and its main packages for data analysis, predictive modeling, visualization, and georeferencing.
 Programming Languages: R, SQL, and some experience with Stata and SPSS.
 Predictive Models: Development and evaluation of predictive models.
