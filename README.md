@@ -18,8 +18,8 @@
 * **Machine Learning:**  Development & evaluation of various predictive models (logistic regression, random forest, XGBoost). Proficient in ensemble methods, including model stacking.
 * **Data Wrangling & Preprocessing:** Data cleaning, transformation, and feature engineering using R.
 * **Data Visualization:**  Creating clear and informative visualizations using ggplot2 and other packages.
-* **Database Management:**  Experience with SQL for data retrieval and manipulation.
-* **Tools:** RStudio, SQL clients.
+* **Database Management:**  Experience for data retrieval and manipulation.
+* **Tools:** RStudio.
 * **Ongoing Learning:** Expanding skills in Python and Power BI.
 
 
