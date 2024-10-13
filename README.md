@@ -12,14 +12,16 @@
 📫I'm not the best, but I'm passionate about learning.
 
  
-
 ⚡️ Skills
 
-Tools: RStudio and its main packages for data analysis, predictive modeling, visualization, and georeferencing.
-Programming Languages: R, SQL, and some experience with Stata and SPSS.
-Predictive Models: Development and evaluation of predictive models.
-Data Visualization: Creating informative graphs and dashboards.
-Learning: Currently exploring Python and Power BI.
+* **Programming Languages:** R, SQL, Stata, SPSS (some experience).
+* **Machine Learning:**  Development & evaluation of various predictive models (logistic regression, random forest, XGBoost). Proficient in ensemble methods, including model stacking.
+* **Data Wrangling & Preprocessing:** Data cleaning, transformation, and feature engineering using R.
+* **Data Visualization:**  Creating clear and informative visualizations using ggplot2 and other packages.
+* **Database Management:**  Experience with SQL for data retrieval and manipulation.
+* **Tools:** RStudio, SQL clients.
+* **Ongoing Learning:** Expanding skills in Python and Power BI.
+
 
 I'm deeply passionate about politics\n
 in all its forms, particularly the dynamic interplay\n
