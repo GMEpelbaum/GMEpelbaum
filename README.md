@@ -23,9 +23,7 @@
 * **Ongoing Learning:** Expanding skills in Python and Power BI.
 
 
-I'm deeply passionate about politics\n
-in all its forms, particularly the dynamic interplay\n
-between the public and private sectors. 
+I'm deeply passionate about politics in all its forms, particularly the dynamic interplay between the public and private sectors. 
 
 ## Research and Articles:
 
